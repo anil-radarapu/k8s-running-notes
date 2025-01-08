@@ -119,10 +119,6 @@ spec:
     ports:
     - containerPort: 8080
 
-free--> reserved--> assigned  ---> vi testing
-
-mnp test--> revervation number  --> done
-
 
 
 
